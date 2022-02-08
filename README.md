@@ -1,6 +1,8 @@
 # ASL Classifier
 
-Deep learning classifier for American Sign Langugae. The project is part of my Machine Learning class at University of Bologna.
+Deep learning classifier for American Sign Language. The project is part of my Machine Learning class at University of Bologna.
+
+Data is from the Kaggle dataset which can be found [here](https://www.kaggle.com/grassknoted/asl-alphabet)
 
 ## Installation
 
